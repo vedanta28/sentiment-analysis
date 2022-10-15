@@ -16,3 +16,8 @@ In this project, we have implemented a sentiment-analyser. The sentiment analyse
 
 - [Google Perspective API](https://perspectiveapi.com/)
 - [toxic-bert](https://huggingface.co/unitary/toxic-bert)
+
+## Contact Us
+
+- Arnav Kumar Behera (www.alphaorionis@gmail.com)
+- Vedanta Mohapatra (manav.sep.28@gmail.com)
